@@ -1,0 +1,18 @@
+STEP 1: Import neccessary Libraries:
+
+Pandas:
+Purpose: Pandas is used for data manipulation and analysis.
+Explanation: It provides data structures like DataFrames and Series, making it easy to work with and analyze structured data.
+
+NumPy:
+Purpose: NumPy is used for numerical and mathematical operations.
+Explanation: It provides support for arrays and matrices, along with a wide range of mathematical functions, which are fundamental for data computations.
+
+Matplotlib:
+Purpose: Matplotlib is used for creating static and interactive visualizations.
+Explanation: The "pyplot" module in Matplotlib offers a flexible way to create various types of plots, charts, and graphs for data visualization.
+
+Seaborn:
+Purpose: Seaborn is used for creating aesthetically pleasing statistical visualizations.
+Explanation: Seaborn simplifies the process of creating complex statistical plots and provides a high-level interface to customize and style visualizations for
+data exploration and presentation.
